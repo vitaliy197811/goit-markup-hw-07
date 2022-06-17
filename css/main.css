@@ -972,7 +972,6 @@ footer {
 }
 
 .modal__icon {
-  position: relative;
   width: 11px;
   height: 11px;
   fill: rgb(0, 0, 0);
